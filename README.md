@@ -1,4 +1,4 @@
-#Identification of Depressive Disorder Using Data Mining Techniques
+## Identification of Depressive Disorder Using Data Mining Techniques
 
 ## Project Overview
 This project aims to predict whether a patient has experienced depressive disorders using data from the BFFS dataset. By implementing a comprehensive data preprocessing pipeline and leveraging advanced classification techniques in R, we developed a robust model to accurately identify depressive disorders.
